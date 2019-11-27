@@ -24,3 +24,8 @@ p {
   font-family: 21px;
   color: gray;
 }
+
+h3 {
+  text-align: right;
+  color: gray;
+}
