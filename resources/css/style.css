@@ -13,3 +13,14 @@ a {
   color: aquamarine;
   font-size: 16px;
 }
+
+h2 {
+  font-size: 42px;
+  font-family: Verdana;
+  font-weight: 300;
+}
+
+p {
+  font-family: 21px;
+  color: gray;
+}
